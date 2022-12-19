@@ -1,0 +1,25 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgb(226, 210, 190);
+    text-align: center;
+    color: black;
+    
+}
+
+div.header {
+    font-size: 32px;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+a:visited{
+    color:brown;
+}
+
+a:hover{
+    color: orangered;
+}
+
+ul li{
+    list-style-type: none;
+}
